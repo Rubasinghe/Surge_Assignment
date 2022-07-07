@@ -1,0 +1,7 @@
+start the application
+npm start
+
+
+
+The application is note complete. 
+to read the notebook page use the url ("http://localhost:3000/notebook")
